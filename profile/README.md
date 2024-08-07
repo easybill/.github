@@ -6,6 +6,9 @@ easybill ist eine cloudbasierte Rechnungssoftware, die sich durch eine einfache 
 
 ### 🍿 Du bist auf der Suche nach neuen Herausforderungen?
 
-- [Software Developer PHP (m/w/d)](https://www.easybill.de/jobs/software-developer-php)
-- [Software Developer Ruby on Rails (m/w/d)](https://www.easybill.de/jobs/software-developer-ruby-on-rails)
-- [Site Reliability Engineer (m/w/d)](https://www.easybill.de/jobs/site-reliability-engineer)
+- Senior PHP Entwickler (m/w/d)
+- Junior PHP Entwickler (m/w/d)
+- Ruby on Rails Entwickler (m/w/d)
+- Site Reliability Engineer (m/w/d)
+
+[Jobs @ easybill.de/jobs](https://www.easybill.de/jobs)
